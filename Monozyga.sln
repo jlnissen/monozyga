@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{51AB5DBB-7946-4178-28A9-9B52C6EB65B6}") = "Monozyga", "Assembly-CSharp.csproj", "{32AAA944-B995-22C1-AEA4-F58AEC3B3293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32AAA944-B995-22C1-AEA4-F58AEC3B3293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AAA944-B995-22C1-AEA4-F58AEC3B3293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AAA944-B995-22C1-AEA4-F58AEC3B3293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AAA944-B995-22C1-AEA4-F58AEC3B3293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

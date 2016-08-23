@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LeftCameraScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RightControllerScript.cs" Line="33" Column="102" />
+      <File FileName="Assets/Scripts/LinkControllerScript.cs" Line="33" Column="3" />
+      <File FileName="Assets/Scripts/LinkedCameraScript.cs" Line="29" Column="7" />
+      <File FileName="Assets/Scripts/LeftCameraScript.cs" Line="15" Column="17" />
+      <File FileName="Assets/Scripts/RightCameraScript.cs" Line="25" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
